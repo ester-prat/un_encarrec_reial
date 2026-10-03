@@ -1,4 +1,4 @@
-const CACHE = "encarrec-v3";
+const CACHE = "encarrec-v4";
 const SHELL = ["./", "index.html", "manifest.json", "icon-192.png", "icon-512.png", "margarida.png", "margarida-cara.png",
   "fonts/barlow-latin-400-normal.woff2", "fonts/barlow-latin-600-normal.woff2", "fonts/barlow-latin-700-normal.woff2",
   "fonts/barlow-latin-ext-400-normal.woff2", "fonts/barlow-latin-ext-600-normal.woff2", "fonts/barlow-latin-ext-700-normal.woff2"];
